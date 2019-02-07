@@ -18,7 +18,7 @@ public class SringTest2 {
 				count++;
 		}
 		System.out.println(str+"="+count);
-
+		System.out.println("!st changes for git test");
 	}
 
 }
