@@ -6,7 +6,7 @@ public class SringTest2 {
 
 	public static void main(String[] args) {
 		int count=0;
-		String s1="Dog Dog doG,,,,,, mnmnmn";
+		String s1="Dog Dog doG mnmnmn";
 		Scanner sc=new Scanner(System.in);
 	
 		System.out.println("Enter the character");
@@ -18,7 +18,7 @@ public class SringTest2 {
 				count++;
 		}
 		System.out.println(str+"="+count);
-		System.out.println("!st changes for git test");
+		
 	}
 
 }
